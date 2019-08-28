@@ -1,1 +1,1 @@
-worker: node menu.js
+web : npm start menu.js
